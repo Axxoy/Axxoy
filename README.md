@@ -4,7 +4,8 @@
 - ☎️ | If you would like to work together on any projects, let me know!
 - 📫 | How to reach me: Feel free to DM us on instagram @tales.in.code
 
-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=axxoy&show_icons=true&theme=catppuccin_mocha)
+<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=axxoy&show_icons=true&theme=catppuccin_mocha)
 
 <!---
 Axxoy/Axxoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
